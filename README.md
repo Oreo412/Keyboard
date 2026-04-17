@@ -9,8 +9,12 @@ The project integrates multiple hardware interfaces and peripherals to create a 
 - Peripherals: OLED display, rotary encoder, GPIO expander
 - Development Period: Late 2020 – Early 2021
 
-> ⚠️ Note: The original source code for this project has unfortunately since been lost.  
+
+<s> ⚠️ Note: The original source code for this project has unfortunately since been lost.  </s>
+> Source code has been found and added to the repository! 
+
 > This repository serves as a technical overview and demonstration of the system design and functionality.
+
 
 ## System Design & Functionality
 
